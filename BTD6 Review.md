@@ -1,7 +1,7 @@
 # Game Review for Bloon Tower Defense 6
 
 ## Details
-Released on December 17th 2018, catagorized under STRATEGY, developed and published by NINJA KIWI, released June 13th 2018 on the APP store
+Released on December 17th 2018 for PC users, catagorized under STRATEGY, developed and published by NINJA KIWI, released June 13th 2018 on the APP store
 
 ### Game Title
 
