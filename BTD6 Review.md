@@ -1,31 +1,32 @@
-# Game Review for (GAME TITLE)
+# Game Review for Bloon Tower Defense 6
 
 ## Details
+Released on December 17th 2018, catagorized under STRATEGY, developed and published by NINJA KIWI, released June 13th 2018 on the APP store
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Bloon Tower Defense 6, can be found in the Steam Store for 9 Dollars, even lower as seen through recent Steam Sales, found on the APP store
+
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I personally rate this game a 3.7/5 as before a certain update it was a 4.0/5
+
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+  A Bloons Tower Defense game usually found on NinjaKiwi.com makes its way to Steam and its very welcomed here. Gameplay, you have over 42 maps each with 3 difficulties to play on EASY, MEDIUM and HARD while also containing additional challenges on said difficulties such as double MOAB health, Alternate Bloon Rounds, Reverse Track, and for the hardcore gamers, CHIMPS mode which is objectively an unfair game mode as you start with 1 HP and MONKEY KNOWLEDGE points which upgrade your towers and powers are turned off. Completing CHIMPS mode will give you a medal to brandish off in Co-op mode. You can choose to deploy over 23 different types of monkey towers each upgrading to TIER 5 though some have better upgrades than others. Co-op mode allows you to choose your length of gameplay and play with others, you each share a portion of a map up to 4 players and can give money to each other, even when the other players disconnects you can still play with whatever towers they left behind. Unlike BTD5, BTD6 has Monkey Heroes each with their strength and weaknesses although some are better than others. You can also create DAILY CHALLENGES and have other players attempt them as well but to ensure the challenge is fair and can be published you must complete it first before publishing it. Another feature is RACE AGAINST TIME where you complete a selected map as fast as possible for a chance to win tons of MONKEY MONEY, your in-game name on the global leaderboard for said selected map and a medal depending on your performance for bragging rights. Finally, knowledge points which can be obtained just by simply leveling up. These points upgrade your towers such as attacking faster, reloading faster, giving extra abilities to towers, giving existing abilities a little lift in power, extending power ability usage from various monkey tower upgrades, giving you a free starter DART MONKEY each time you play a map and much more. Complete a certain difficulty and you can unlock SANDBOX mode to mess around in or to see the various Tier 5 upgrades that you'll never get a chance to purchase in-game. As a final reward should you manage to beat and survive wave 100 you get a random monkey tower for free for your tenacity. BTD6 also has new enemy Bloons and MOABS such as purple Bloons which are immune to fire and plasma attacks while for MOABS you have a D.D.T a camouflaged MOAB which can really ruin your day if you don't have camouflage detection among your towers and can be armored and finally the B.A.D the slowest yet tankiest of the MOABs which too can be armored. IF not handled with strong defenses you basically just lost the game. Finally while earning achievments in the game you also obtain various rewards with said achievments such as obtaining monkey money, various monkey towers or even knowledge points through your arduous popping career. 
 
+  
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+  With over 200 hours of BTD6, I can justify my 3.7 rating. Let me start off by saying the business practice is beyond criminal. Heroes can be obtained through monkey money which can be earned or bought on the via store page and if your super crazy you can blow up to 200 dollars to get an absurd amount of Monkey Money which can be spent on various monkey powers notably MONKEY CRATES which all things considered makes the game stupidly easy. This beats the purpose of the game as you earn money by popping Bloons, don't get me started on how you can spend 20 dollars to unlock "DOUBLE MONEY" which turns the game literally into easy mode, buying double money overrides the "Half Money" game mode as instead of getting half money as intended you instead get a regular flow of money as if you're playing a regular game. Also when you start a game you can fully upgrade your selected hero from LV1 immediately to LV20 for 99 cents. Monkey knowledge points can be obtained again through the store for 99 cents per point, "Monkey Bundles" are always advertised and you can choose to spend anywhere from 5-60 dollars on a TIER bundle though most of the time these are on sale just like the monkey money bundles. Regarding MONKEY KNOWLEDGE points as of now due to a recent update if you want to spend your MONKEY KNOWLEDGE points on Tier 3 or higher tower/power upgrades on any of the 5 monkey trees you have to pay a certain amount of monkey money to do so highest being at least to cough up 1000 monkey money. Finally, as its continued tradition if you lose a map you have the option to start over for a small fee of monkey money which is disgusting. Overall you'll see these advertised everywhere with that little red cash register on the bottom left of the screen or when you pause the game. Don't get me started on Co-op as often you have to go on the Steam BTD6 discussions forum page to ask for a legitimate teammate who won't disconnect because you chose a "non-meta" monkey upgrade path. Regarding monkey crates, I've mentioned how it makes the game easy so here's an example from my recent co-op playthroughs: You start a regular co-op game, you noticed your teammates are above level 100, within seconds your partners are spamming monkey money crates and already has various Tier 5 towers thus winning the team the game with no effort. Because of this, you'll want to play solo the majority of the time. Each update balances and buffs towers while also adding in new maps, hero skins or a new hero and sometimes a new tower. Seasonal updates grant you a chance to earn even more monkey towers just by playing the game, after finishing a map you'll obtain whatever the update requires from you such as Candy or Snowflakes. Get a certain amount and you'll earn a Monkey crate that has various monkey towers in it as your reward depending on how much special even items you've collected. As far as i know through my playthroughs and because I sometimes lose immediately after completing wave 100 it is unknown if you can obtain more free monkey towers after every of set of 100 waves you complete as past wave 100 the game will continue to give you MOABS, DDTs and BADs which will eventually crash your game due to how much stuff is on your screen. As a little reminder, you CAN crash your game if you keep increasing your monkey tower's attack speed. Despite all the "BUY NOW!" thrown around I still highly recommend this game as it's cheap, can be played on mobile to verse other players and is simple to learn as all you need is patience and to know how to use your monkeys correctly.
+
+
+
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+Additional information obtainted from the BTD6 Steam Store page and the Bloons Wiki
+https://bloons.fandom.com/wiki/Bloons_Tower_Defense_6
+https://store.steampowered.com/app/960090/Bloons_TD_6/
